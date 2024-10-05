@@ -20,3 +20,6 @@ def test_internet_speed():
 
 if __name__ == "__main__":
     test_internet_speed()
+
+
+# this is a comment!
